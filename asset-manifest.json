@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.4538e668.css",
-    "main.js": "/static/js/main.d6c481ad.js",
-    "static/media/interrogação2.jpg": "/static/media/interrogação2.6e298cd3d7dd2bf8b1c4.jpg",
-    "index.html": "/index.html",
-    "main.4538e668.css.map": "/static/css/main.4538e668.css.map",
-    "main.d6c481ad.js.map": "/static/js/main.d6c481ad.js.map"
+    "main.css": "./static/css/main.3cc19fc8.css",
+    "main.js": "./static/js/main.d6c481ad.js",
+    "static/media/interrogação2.jpg": "./static/media/interrogação2.6e298cd3d7dd2bf8b1c4.jpg",
+    "index.html": "./index.html",
+    "main.3cc19fc8.css.map": "./static/css/main.3cc19fc8.css.map",
+    "main.d6c481ad.js.map": "./static/js/main.d6c481ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.4538e668.css",
+    "static/css/main.3cc19fc8.css",
     "static/js/main.d6c481ad.js"
   ]
 }
